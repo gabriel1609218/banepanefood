@@ -1,0 +1,40 @@
+body {
+    background:#fafafa
+}
+.navbar-brand img {
+    height:58px;
+    width:auto
+}
+.hero {
+    min-height:520px;
+    background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),url('../../imagem/Banner.png') center/cover;
+    display:flex;
+    align-items:center;
+    justify-content:center
+}
+.hero-content {
+    max-width:700px
+}
+.search-box {
+    max-width:480px
+}
+.produto-img {
+    height:280px;
+    object-fit:cover
+}
+.card {
+    border:0
+}
+.preco {
+    font-size:1.35rem;
+    font-weight:700
+}
+.table td,.table th {
+    vertical-align:middle
+}
+.btn-warning {
+    font-weight:600
+}
+footer {
+    margin-top:80px
+}
