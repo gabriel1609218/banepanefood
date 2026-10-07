@@ -38,7 +38,7 @@ require '../templates/header.php';
 <section id="sobre" class="row align-items-center g-4">
 <div class="col-md-6">
 <h2>Sobre a Banepane Foods</h2>
-<p>Somos uma loja de pão de queijo congelado</p>
+<p>Somos uma loja de pão de queijo congelado.</p>
 </div>
 <div class="col-md-6">
 <img src="../imagem/sobre.png" class="img-fluid rounded-4" alt="Produtos Banepane">
